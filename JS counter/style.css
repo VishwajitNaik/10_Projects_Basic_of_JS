@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,0.8417871298910189) 0%, rgba(10,130,255,0.6107829972809437) 5%, rgba(1,139,132,1) 56%, rgba(0,0,0,1) 100%);
+}
+
+.col-md-6{
+    border: 3px solid black;
+    margin-top: 25% ;
+}
+
+button{
+    margin: 20px;
+    border: 2px solid white !important;
+}
+
+h1{
+    
+}

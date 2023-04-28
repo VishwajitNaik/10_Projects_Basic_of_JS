@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Form Validation</h1>
+        <input class="form-control" id="username" type="text"  placeholder="Username">
+        <small id="username_error"></small>
+
+        <input class="form-control" id="email" type="email"  placeholder="Email">
+        <small id="email_error"></small>
+
+        <input class="form-control" id="password" type="password"  placeholder="Password">
+        <small id="password_error"></small>
+
+        <input class="form-control" id="Cpassword" type="password"  placeholder="Confirm Password">
+        <small id="confirmpassword_error"></small>
+
+        <button type="submit" onclick="validate()">Submit</button>
+    </div>
+</body>
+</html>
+<script src="index.js"></script>
