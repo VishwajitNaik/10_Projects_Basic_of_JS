@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/10_Projects_Basic_of_JS/static/css/main.ef12faf0.css",
+    "main.js": "/10_Projects_Basic_of_JS/static/js/main.dbca18cb.js",
+    "static/js/787.00f7599b.chunk.js": "/10_Projects_Basic_of_JS/static/js/787.00f7599b.chunk.js",
+    "index.html": "/10_Projects_Basic_of_JS/index.html",
+    "main.ef12faf0.css.map": "/10_Projects_Basic_of_JS/static/css/main.ef12faf0.css.map",
+    "main.dbca18cb.js.map": "/10_Projects_Basic_of_JS/static/js/main.dbca18cb.js.map",
+    "787.00f7599b.chunk.js.map": "/10_Projects_Basic_of_JS/static/js/787.00f7599b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef12faf0.css",
+    "static/js/main.dbca18cb.js"
+  ]
+}
